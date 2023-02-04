@@ -176,6 +176,14 @@ function operate(x, y, op) {
         } else {
         return x / y;
         }
+    } else if(op === 'modulus') {
+        return x % y
+    } else if(op === 'sq') {
+        return x * x
+    } else if(op === "sqrt") {
+        return Math.sqrt(x)
+    } else if(op === "log") {
+        return Math.log10(x)
     }
 }
 
