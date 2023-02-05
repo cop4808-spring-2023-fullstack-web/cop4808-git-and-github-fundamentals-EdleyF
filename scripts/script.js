@@ -176,7 +176,7 @@ function operate(x, y, op) {
         } else {
         return x / y;
         }
-    } else if(op === 'modulus') {
+    } else if(op === 'modulus') { //Code for new functions start here
         return x % y
     } else if(op === 'sq') {
         return x * x

@@ -1,4 +1,5 @@
 Edley Forestal
+![Calculator](firefox_zYFUnP1TMd.gif)
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
